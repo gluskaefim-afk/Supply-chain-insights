@@ -127,7 +127,3 @@ The performance degradation is systemic rather than localized.
 The primary focus should be on identifying operational or process changes introduced after January 15.
 
 At the same time, there is a clear opportunity to improve profitability through better order structure and cost management.
-
-
-
-<img width="1900" height="734" alt="image" src="https://github.com/user-attachments/assets/439d626a-4180-4db7-b21e-f916cd479acc" />
