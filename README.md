@@ -1,5 +1,7 @@
 <img width="1900" height="734" alt="image" src="https://github.com/user-attachments/assets/51def6c9-f2fa-48f6-805e-5b972f0baad3" />
-# Supply-chain-insights
+
+
+## Supply-chain-insights
 ---
 
 This case focused on identifying the root causes of delivery delays and service level degradation. The goal is to understand why Lead Time increased, OTD dropped, and where operational improvements can be made.
